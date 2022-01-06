@@ -1,0 +1,14 @@
+C:\Users\corne\source\repos\LambdaCodigo\LambdaCodigo\bin\Debug\netcoreapp3.1\LambdaCodigo.exe
+C:\Users\corne\source\repos\LambdaCodigo\LambdaCodigo\bin\Debug\netcoreapp3.1\LambdaCodigo.deps.json
+C:\Users\corne\source\repos\LambdaCodigo\LambdaCodigo\bin\Debug\netcoreapp3.1\LambdaCodigo.runtimeconfig.json
+C:\Users\corne\source\repos\LambdaCodigo\LambdaCodigo\bin\Debug\netcoreapp3.1\LambdaCodigo.runtimeconfig.dev.json
+C:\Users\corne\source\repos\LambdaCodigo\LambdaCodigo\bin\Debug\netcoreapp3.1\LambdaCodigo.dll
+C:\Users\corne\source\repos\LambdaCodigo\LambdaCodigo\bin\Debug\netcoreapp3.1\LambdaCodigo.pdb
+C:\Users\corne\source\repos\LambdaCodigo\LambdaCodigo\obj\Debug\netcoreapp3.1\LambdaCodigo.csproj.AssemblyReference.cache
+C:\Users\corne\source\repos\LambdaCodigo\LambdaCodigo\obj\Debug\netcoreapp3.1\LambdaCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corne\source\repos\LambdaCodigo\LambdaCodigo\obj\Debug\netcoreapp3.1\LambdaCodigo.AssemblyInfoInputs.cache
+C:\Users\corne\source\repos\LambdaCodigo\LambdaCodigo\obj\Debug\netcoreapp3.1\LambdaCodigo.AssemblyInfo.cs
+C:\Users\corne\source\repos\LambdaCodigo\LambdaCodigo\obj\Debug\netcoreapp3.1\LambdaCodigo.csproj.CoreCompileInputs.cache
+C:\Users\corne\source\repos\LambdaCodigo\LambdaCodigo\obj\Debug\netcoreapp3.1\LambdaCodigo.dll
+C:\Users\corne\source\repos\LambdaCodigo\LambdaCodigo\obj\Debug\netcoreapp3.1\LambdaCodigo.pdb
+C:\Users\corne\source\repos\LambdaCodigo\LambdaCodigo\obj\Debug\netcoreapp3.1\LambdaCodigo.genruntimeconfig.cache
